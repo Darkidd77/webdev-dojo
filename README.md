@@ -37,39 +37,39 @@ Here are the technologies and concepts I'll be focusing on during this revision 
 
 ## 📂 Repository Structure
 
-/
-├── 01-Foundations/
-│   ├── 01-HTML/
-│   ├── 02-CSS/
-│   │   ├── 01-Flexbox/
-│   │   └── 02-Grid/
-│   ├── 03-Web-Design-Principles/
-│   └── 04-JavaScript-Core/
-│
-├── 02-Frontend-Development/
-│   └── 01-React/
-│
-├── 03-Backend-Development/
-│   ├── 01-NodeJS/
-│   ├── 02-ExpressJS/
-│   └── 03-EJS-Templates/
-│
-├── 04-APIs/
-│   └── 01-RESTful-APIs/
-│
-├── 05-Databases/
-│   ├── 01-SQL/
-│   └── 02-NoSQL/
-│
-├── 06-Authentication-and-Security/
-│
-├── 07-Dev-Tools-and-Deployment/
-│   ├── 01-UNIX-Commands/
-│   ├── 02-Git-and-GitHub/
-│   └── 03-Deployment/
-│
-└── 08-Advanced-Topics/
-└── 01-Web3-and-Blockchain/
+1. Foundations
+    - HTML
+    - CSS
+        - Flexbox
+        - Grid
+    - Web Design Principles
+    - JavaScript Core
+
+2. Frontend Development
+    - React
+
+3. Backend Development
+    - NodeJS
+    - ExpressJS
+    - EJS Templates
+
+4. APIs
+    - RESTful APIs
+
+5. Databases
+    - SQL
+    - NoSQL
+
+6. Authentication and Security
+
+7. Dev Tools and Deployment
+    - UNIX Commands
+    - Git and GitHub
+    - Deployment
+
+8. Advanced Topics
+    - Web3 and Blockchain
+
 
 
 
