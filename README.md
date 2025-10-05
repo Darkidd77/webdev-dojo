@@ -69,7 +69,7 @@ Here are the technologies and concepts I'll be focusing on during this revision 
 │   └── 03-Deployment/
 │
 └── 08-Advanced-Topics/
-    └── 01-Web3-and-Blockchain/
+└── 01-Web3-and-Blockchain/
 
 
 
